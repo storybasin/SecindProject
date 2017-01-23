@@ -1,3 +1,5 @@
+//for command line gut tutorial
+//GitHub modification
 
 public class Hello{
 	public static void main (String[] args){
