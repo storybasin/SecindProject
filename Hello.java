@@ -1,5 +1,7 @@
 //For commandline git tutorial
-//Local repository modification
+//Local repository modificatin
+//GitHub modification
+>>>>>>> origin/master
 
 public class Hello{
 	public static void main (String[] args){
